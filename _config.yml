@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mohammed Moussa | The AI Blog"
+title                    : "The AI Blog"
 title_separator          : "-"
 name                     : &name "Mohammed Moussa"
 description              : &description "personal description"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "binmosa"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "binmosa"
   vine             :
   weibo            :
   xing             :
